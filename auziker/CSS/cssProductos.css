@@ -1,0 +1,83 @@
+/*Fuente*/
+@font-face {
+    font-family: "Agency";
+    src: url('../FONT/agencyfb_reg.ttf') format('truetype');
+}
+
+html{
+    font-family: "Agency";
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/*HEADER*/
+header{
+    position: relative;
+    width: 100%;
+    height: 8vw;
+    background-color: #09B322;
+}
+header img{
+    position: absolute;
+    height: auto;
+    width: 20vw;
+    left: 42vw;
+}
+.volver{
+    position: absolute;
+    bottom: 4px;
+    left: 3vw;
+}
+.contacto{
+    position: absolute;
+    bottom: 4px;
+    right: 3vw;
+}
+
+header span a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.8vw;
+}
+
+header span a:hover{
+    color: red;
+}
+
+/*MAIN*/
+.main{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.producto{
+    position: relative;
+    margin: 30px 0;
+    width: 80vw;
+    border: 2px solid #09B322;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 0px 10px 5px rgba(9, 179, 34, 0.6);
+}
+
+.cabecera{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cuerpo{
+    margin: 1vh 0;
+}
+
+.titulo{
+    font-size: 30px;
+    margin: 25px 0;
+}
