@@ -34,14 +34,12 @@ El desarrollo se centró en ofrecer una solución web moderna y eficiente utiliz
 
 ```
 WebAuziker/
-├── index.html        # Página principal
-├── css/
-│   └── styles.css    # Hojas de estilo
-├── js/
-│   └── scripts.js    # Scripts de JavaScript
-└── assets/
-    ├── images/       # Imágenes utilizadas en el sitio
-    └── fonts/        # Tipografías personalizadas
+└── auziker/
+    ├── CSS/           # Hojas de estilo
+    ├── FONT/          # Tipografías utilizadas
+    ├── HTML\ES/      # Estructura principal en HTML
+    ├── IMG/           # Imágenes del sitio
+    └── JS/            # Scripts de JavaScript
 ```
 
 ---
@@ -53,7 +51,7 @@ WebAuziker/
    git clone https://github.com/JulenHidalgo/WebAuziker.git
    ```
 
-2. Abre el archivo `index.html` en tu navegador preferido.
+2. Abre el archivo `auziker/HTML/ES/indice.html` en tu navegador preferido.
 
 ---
 
@@ -61,3 +59,11 @@ WebAuziker/
 
 Este proyecto fue desarrollado como parte de una práctica académica y actualmente no se aceptan contribuciones externas.  
 Sin embargo, cualquier sugerencia o comentario es bienvenido.
+
+---
+
+## ✨ Más sobre mí
+
+Si te interesa ver más sobre mis trabajos y proyectos, puedes visitar mi portfolio personal:
+
+👉 [https://julenhidalgo.github.io/portfolio/Portfolio/html/portfolioJulenHidalgo.html](https://julenhidalgo.github.io/portfolio/Portfolio/html/portfolioJulenHidalgo.html)
