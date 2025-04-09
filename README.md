@@ -62,6 +62,13 @@ Sin embargo, cualquier sugerencia o comentario es bienvenido.
 
 ---
 
+## 🙏 Agradecimientos
+
+Quiero dar las gracias a **[Auziker](https://auziker.com/)** por la confianza y el trato recibido durante mi estancia de prácticas.  
+Este proyecto fue realizado con el objetivo de aportar valor a su empresa y forma parte de mi formación profesional.
+
+---
+
 ## ✨ Más sobre mí
 
 Si te interesa ver más sobre mis trabajos y proyectos, puedes visitar mi portfolio personal:
