@@ -61,10 +61,3 @@ WebAuziker/
 
 Este proyecto fue desarrollado como parte de una práctica académica y actualmente no se aceptan contribuciones externas.  
 Sin embargo, cualquier sugerencia o comentario es bienvenido.
-
----
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE).  
-Consulta el archivo `LICENSE` para más detalles.
