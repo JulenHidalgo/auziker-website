@@ -11,7 +11,7 @@ El proyecto se llevó a cabo de forma individual en un plazo aproximado de dos s
 
 Este sitio web está desplegado en **GitHub Pages** y puede visualizarse aquí:
 
-👉 [https://julenhidalgo.github.io/WebAuziker/auziker/HTML/ES/indice.html](https://julenhidalgo.github.io/WebAuziker/auziker/HTML/ES/indice.html)
+👉 [https://julenhidalgo.github.io/auziker-website/auziker/HTML/ES/indice.html](https://julenhidalgo.github.io/auziker-website/auziker/HTML/ES/indice.html)
 
 ---
 
